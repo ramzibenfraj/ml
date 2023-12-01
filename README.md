@@ -1,2 +1,2 @@
 # ml
-machine learrning mini projet : car price prediction
+machine learrning : car price prediction
